@@ -2,9 +2,9 @@
 * [Project Overview](#-project-overview)
 * [Tech Stack](#️-tech-stack)
 * [Technical Workflow](#️-technical-workflow)
+* [Interactive Dashboard](#-Interactive-Dashboard).
 * [Key Results](#-key-results)
 * [How to Use](#-how-to-use)
-* [Interactive Dashboard](#-Interactive-Dashboard).
 
 # 🚀 AI-Powered Voice of Customer Analysis
 ### Automating Sentiment & Topic Extraction with Google Gemini 1.5 Flash
