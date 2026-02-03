@@ -4,6 +4,7 @@
 * [Technical Workflow](#️-technical-workflow)
 * [Key Results](#-key-results)
 * [How to Use](#-how-to-use)
+* [Interactive Dashboard](#-Interactive-Dashboard).
 
 # 🚀 AI-Powered Voice of Customer Analysis
 ### Automating Sentiment & Topic Extraction with Google Gemini 1.5 Flash
@@ -35,6 +36,10 @@ The pipeline follows a modular 4-step process to ensure data integrity and API e
 4. **Structured Export**: 
    * The AI's raw string responses are parsed and merged back into the original DataFrame.
    * The final dataset is exported as a UTF-8 CSV, ready for immediate ingestion into BI tools like Tableau or Power BI.
+  
+## 📊 Interactive Dashboard
+I built an interactive dashboard to visualize the AI's findings. 
+You can explore the live data here: [View Interactive Dashboard](YOUR_TABLEAU_URL_HERE)
 
 ## 📈 Key Results
 * **Efficiency:** Reduced manual data tagging time by ~95%.
