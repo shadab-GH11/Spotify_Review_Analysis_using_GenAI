@@ -1,3 +1,10 @@
+## 📖 Table of Contents
+* [Project Overview](#-project-overview)
+* [Tech Stack](#️-tech-stack)
+* [Key Results](#-key-results)
+* [How to Use](#-how-to-use)
+* [Technical Workflow](#-technical-workflow)
+
 # 🚀 AI-Powered Voice of Customer Analysis
 ### Automating Sentiment & Topic Extraction with Google Gemini 1.5 Flash
 
